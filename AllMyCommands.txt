@@ -13,6 +13,8 @@ $ git merge ReadMe
 $ git add .
 $ git commit -m "create and add AllMyCommands.txt"
 $ git push
-
+$ git add .
+$ git commit -m "add all instructions" AllMyCommands.txt
+$ git push
 
 
